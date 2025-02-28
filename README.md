@@ -5,7 +5,8 @@
 - Participantes de seminario 1 deben realizar un abstract.
 - Participantes de seminario 2 deben realizar una presentación.
 - Todos nos ayudamos dando feedback.
-- 
+
+  
 ### Calendario del curso 
 
 |Fecha | Actividad | Evaluación |  
