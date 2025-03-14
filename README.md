@@ -11,15 +11,15 @@
 
 |Fecha | Actividad | Evaluación |  
 |------|-----------|------------|
-|07-Marzo | Presentación ||
-|14-Marzo | Tarea 1 (ver carpeta) ||
-|21 - Marzo| Discusión Tarea ||
-|28 - Marzo | Tarea 2 (ver carpeta)||
+|07-Marzo | - ||
+|14-Marzo | Presentación, Actividad 1 (ver carpeta) ||
+|21 - Marzo| Discusión Actividad 1 ||
+|28 - Marzo | Actividad 2 (ver carpeta)||
 |4 - Abril | Discusión / Abstracts ||
 |11 - Abril | Presentaciones Científicas ||
 |18 - Abril | Semana Santa ||
 |25 - Abril | Clase Invitada |Primera entrega de Abstract|
-|2 - Mayo | Receso |Comenszar a preparar presentaciones|
+|2 - Mayo | Receso |Comenzar a preparar presentaciones|
 |9 - Mayo | Charlas o Presentaciones ||
 |16 - Mayo | Charlas o Presentaciones ||
 |23 - Mayo | Charlas o Presentaciones ||
