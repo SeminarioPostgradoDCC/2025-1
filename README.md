@@ -20,14 +20,14 @@
 |18 - Abril | Semana Santa ||
 |25 - Abril | Clase Invitada |Primera entrega de Abstract|
 |2 - Mayo | Receso |Comenzar a preparar presentaciones|
-|9 - Mayo | Charlas o Presentaciones ||
-|16 - Mayo | Charlas o Presentaciones ||
-|23 - Mayo | Charlas o Presentaciones ||
-|30 - Mayo | Charlas o Presentaciones ||
-|06 - Junio | Charlas o Presentaciones ||
-|13 - Junio | Charlas o Presentaciones |Entrega de Abstract|
+|9 - Mayo | Charla | Suspensión por fuerza mayor |
+|16 - Mayo | Presentacion | Guillermo Peralta|
+|23 - Mayo | Presentación | Florencia Adriasola|
+|30 - Mayo | Charlas  | Cristian Riveros (DCC)|
+|06 - Junio | Charlas | Andrés Neyem (DCC) |
+|13 - Junio | Presentación + Entrega de Abstract | Sofía Correa|
 |20 - Junio | Feriado ||
-|27 - Junio | Charlas o Presentaciones ||
+|27 - Junio | Charlas o Presentaciones |Ricardo Urvina|
 
 
 
