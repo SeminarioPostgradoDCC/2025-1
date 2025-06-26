@@ -25,9 +25,9 @@
 |23 - Mayo | Presentación | Florencia Adriasola|
 |30 - Mayo | Charlas  | Cristian Riveros (DCC)|
 |06 - Junio | Charlas | Andrés Neyem (DCC) |
-|13 - Junio | Presentación + Entrega de Abstract | Sofía Correa|
+|13 - Junio | Presentación + Entrega de Abstract | [Sofía Correa](https://drive.google.com/file/d/18X8lXUxzUCp4lQt7LvrBr7zxkrRD5zHU/view?usp=sharing)|
 |20 - Junio | Feriado ||
-|27 - Junio | Charlas o Presentaciones |Ricardo Urvina|
+|27 - Junio | Charlas o Presentaciones |Ricardo Urvina + Maximiliano Ojeda|
 
 
 
